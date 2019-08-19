@@ -10,7 +10,6 @@ Link | Description
 ------------ | -------------
 Studieplan | Den overordnet beskrivelse af valgfaget
 Skema | Skemaet for valgfaget
- | 
 Uge 1: Subject | Ugeplan for uge 35, med tilhørende materialer
 Uge 2: Subject | Ugeplan for uge 36, med tilhørende materialer
 Uge 3: Subject | Ugeplan for uge 37, med tilhørende materialer
@@ -26,7 +25,6 @@ Uge 12: Subject | Ugeplan for uge 47, med tilhørende materialer
 Uge 13: Subject | Ugeplan for uge 48, med tilhørende materialer
 Uge 14: Subject | Ugeplan for uge 49, med tilhørende materialer
 Uge 15: Subject | Ugeplan for uge 50, med tilhørende materialer
- | 
 Eksamen | Information angående eksamen
 Bilag | Links, dokumenter og andre bilag vil blive lagt ind he
 
