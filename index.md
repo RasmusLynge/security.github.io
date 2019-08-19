@@ -30,4 +30,18 @@ Uge 15: Subject | Ugeplan for uge 50, med tilhørende materialer
 
 ### Support or Contact
 
-Having trouble with a something? Check out our [slack group](https://datamatiker-security.slack.com/) where you can write in the [help chat](https://app.slack.com/client/TMGKRJMJR/CM58R2AKD)
+Having trouble with a something? Check out our [slack group](https://datamatiker-security.slack.com/) where you can write in the [help chat](https://app.slack.com/client/TMGKRJMJR/CM58R2AKD).
+
+Need to contact any member of this class? use this contact table to contact or use our [slack group](https://datamatiker-security.slack.com/) by sending private messages.
+
+Navn | Email
+------------ | -------------
+Kim P. Pedersen |cph-kp222@cphbusiness.dk
+Esben Dalgaard | cph-ed66@cphbusiness.dk
+Casper Marx | cph-cm268@cphbusiness.dk
+Dan Tomicic | cph-dt63@cphbusiness.dk
+Michael D. Pedersen | cph-mp447@cpbusiness.dk
+Jesper Christensen | cph-jc173@cphbusiness.dk
+Rasmus L. Jacobsen | cph-rj173@cphbusiness.dk
+Mathias Kristensen | cph-mk523@cphbusiness.dk
+Magnus Klitmose | cph-mk525@cphbusiness.dk
