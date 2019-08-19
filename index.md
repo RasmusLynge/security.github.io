@@ -8,4 +8,4 @@ TODO: make navigation xDDDD
 
 ### Support or Contact
 
-Having trouble with a subject? Check out our [slack group]https://datamatiker-security.slack.com/) where you can write in the [help chat](https://app.slack.com/client/TMGKRJMJR/CM58R2AKD)
+Having trouble with a subject? Check out our [slack group](https://datamatiker-security.slack.com/) where you can write in the [help chat](https://app.slack.com/client/TMGKRJMJR/CM58R2AKD)
