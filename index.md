@@ -2,6 +2,8 @@
 
 Here will all information about our class be. All from our schedule to links and infomations about theory. 
 
+![Image of Yaktocat](./Picture.png)
+
 ### Navigation
 
 TODO: make navigation xDDDD
