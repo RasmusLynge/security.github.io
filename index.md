@@ -36,7 +36,7 @@ Need to contact any member of this class? use this contact table to contact or u
 
 Navn | Email
 ------------ | -------------
-Kim P. Pedersen |cph-kp222@cphbusiness.dk
+Kim P. Pedersen | cph-kp222@cphbusiness.dk
 Esben Dalgaard | cph-ed66@cphbusiness.dk
 Casper Marx | cph-cm268@cphbusiness.dk
 Dan Tomicic | cph-dt63@cphbusiness.dk
