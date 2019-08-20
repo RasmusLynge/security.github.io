@@ -8,9 +8,9 @@ Here will all information about our class be. All from our schedule to links and
 Link | Description
 ------------ | -------------
 [Studieplan](./pages/studieplan.md) | Den overordnet beskrivelse af valgfaget
-Skema | Skemaet for valgfaget
-Eksamen | Information angående eksamen
-Bilag | Links, dokumenter og andre bilag vil blive lagt ind her
+[Skema](./pages/skema.md) | Skemaet for valgfaget
+[Eksamen](./pages/eksamen.md) | Information angående eksamen
+[Bilag](./pages/bilag.md) | Links, dokumenter og andre bilag vil blive lagt ind her
  | 
 Uge 1: Subject | Ugeplan for uge 35, med tilhørende materialer
 Uge 2: Subject | Ugeplan for uge 36, med tilhørende materialer
