@@ -1,13 +1,13 @@
 ## Welcome to Security GitHub Pages
 
 Here will all information about our class be. All from our schedule to links and infomations about theory. 
-![Image of Yaktocat](./Picture.png)
+![Reasons](./Picture.png)
 
 ### Navigation
 
 Link | Description
 ------------ | -------------
-Studieplan | Den overordnet beskrivelse af valgfaget
+[Studieplan](./pages/studieplan.md) | Den overordnet beskrivelse af valgfaget
 Skema | Skemaet for valgfaget
 Eksamen | Information angående eksamen
 Bilag | Links, dokumenter og andre bilag vil blive lagt ind her
