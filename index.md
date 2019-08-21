@@ -34,14 +34,14 @@ Having trouble with a something? Check out our [slack group](https://datamatiker
 
 Need to contact any member of this class? use this contact table to contact or use our [slack group](https://datamatiker-security.slack.com/) by sending private messages.
 
-Navn | Email
------------- | -------------
-Kim P. Pedersen | cph-kp222@cphbusiness.dk
-Esben Dalgaard | cph-ed66@cphbusiness.dk
-Casper Marx | cph-cm268@cphbusiness.dk
-Dan Tomicic | cph-dt63@cphbusiness.dk
-Michael D. Pedersen | cph-mp447@cpbusiness.dk
-Jesper Christensen | cph-jc173@cphbusiness.dk
-Rasmus L. Jacobsen | cph-rj173@cphbusiness.dk
-Mathias Kristensen | cph-mk523@cphbusiness.dk
-Magnus Klitmose | cph-mk525@cphbusiness.dk
+Navn | Email | Github
+------------ | ------------- | -------------
+Kim P. Pedersen | cph-kp222@cphbusiness.dk | [Link](https://github.com/KimHotDK)
+Esben Dalgaard | cph-ed66@cphbusiness.dk | [Link](https://github.com/Edunno)
+Casper Marx | cph-cm268@cphbusiness.dk | [Link](https://github.com/Marx02)
+Dan Tomicic | cph-dt63@cphbusiness.dk | [Link](https://github.com/godlikecpu)
+Michael D. Pedersen | cph-mp447@cpbusiness.dk | [Link](https://github.com/mich561d)
+Jesper Christensen | cph-jc173@cphbusiness.dk | [Link](https://github.com/jesper3005)
+Rasmus L. Jacobsen | cph-rj173@cphbusiness.dk | [Link](https://github.com/)
+Mathias Kristensen | cph-mk523@cphbusiness.dk | [Link](https://github.com/)
+Magnus Klitmose | cph-mk525@cphbusiness.dk | [Link](https://github.com/)
