@@ -1,4 +1,4 @@
-[<------](../index.md)
+[<----------](../index.md)
 
 ## Bilag
 
@@ -20,7 +20,6 @@ Created by Nathan House - Last updated 9/2018
  
 ### PDF material
 
-[Publications and guides from the Danish Center for Cyber Security Threat Assessment: The Cyber Threat Against Denmark 2019]
-(https://fe-ddis.dk/cfcs/publikationer/Documents/Cybertruslen-mod-Danmark-2019.pdf) 
+[Publications and guides from the Danish Center for Cyber Security Threat Assessment: The Cyber Threat Against Denmark 2019](https://fe-ddis.dk/cfcs/publikationer/Documents/Cybertruslen-mod-Danmark-2019.pdf) 
 
 [Center for Cyber Security Publications](https://fe-ddis.dk/cfcs/publikationer/Pages/publikationer.aspx)
