@@ -6,7 +6,7 @@
 
 | Monday        | Tuesday       | Wednesday | Thursday | Friday |
 | ------------- |:-------------:|:---------:| --------:|-------:|
-|               |               | <strong>Homework</strong> <br> Watch till/through section 11 <br> [Udemy Course](https://www.udemy.com/course/ethical-hacking-course-protect-yourself-prevent-hacks/)   |    |        |
+|               |               | <strong>Homework</strong> <br> Watch till/through section 11 <br> [Udemy Course](https://www.udemy.com/course/ethical-hacking-course-protect-yourself-prevent-hacks/) <br> (Minus network related sections)  |    |        |
 
 <br>
 
@@ -62,7 +62,7 @@
 
 | Monday        | Tuesday       | Wednesday | Thursday | Friday |
 | ------------- |:-------------:|:---------:| --------:|-------:|
-|               |               | TBD <br>     |    |    |
+| Autumn holiday | Autumn holiday | Autumn holiday | Autumn holiday | Autumn holiday |
 
 <br>
 
