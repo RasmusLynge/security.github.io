@@ -6,7 +6,7 @@
 
 | Monday        | Tuesday       | Wednesday | Thursday | Friday |
 | ------------- |:-------------:|:---------:| --------:|-------:|
-|               |               | <strong>Homework</strong> <br> Watch till/through section 11 <br> [Udemy Course](https://www.udemy.com/course/ethical-hacking-course-protect-yourself-prevent-hacks/) <br> (Minus network related sections)  |    |        |
+|               |               | <strong>Class:</strong> <br> 08:30 - 12:00 <br> <strong>Homework:</strong> <br> Watch till/through section 11 <br> [Udemy Course](https://www.udemy.com/course/ethical-hacking-course-protect-yourself-prevent-hacks/) <br> (Minus network related sections) |    |        |
 
 <br>
 
@@ -14,7 +14,7 @@
 
 | Monday        | Tuesday       | Wednesday | Thursday | Friday |
 | ------------- |:-------------:|:---------:| --------:|-------:|
-|               |               | TBD <br>     |    |    |
+|               |               | <strong>Class:</strong> <br> 08:30 - 12:00 <br> <strong>Homework:</strong> <br> |    |    |
 
 <br>
 
@@ -22,7 +22,7 @@
 
 | Monday        | Tuesday       | Wednesday | Thursday | Friday |
 | ------------- |:-------------:|:---------:| --------:|-------:|
-|               |               | TBD <br>     |    |    |
+|               | <strong>Class:</strong> <br> 12:30 - 16:00 <br> <strong>Homework:</strong> <br> | <strong>Class:</strong> <br> 08:30 - 12:00 <br> <strong>Homework:</strong> <br> |    |    |
 
 <br>
 
@@ -30,7 +30,7 @@
 
 | Monday        | Tuesday       | Wednesday | Thursday | Friday |
 | ------------- |:-------------:|:---------:| --------:|-------:|
-|               |               | TBD <br>     |    |    |
+|               |               | <strong>Class:</strong> <br> 08:30 - 12:00 <br> <strong>Homework:</strong> <br> |    |    |
 
 <br>
 
@@ -38,7 +38,7 @@
 
 | Monday        | Tuesday       | Wednesday | Thursday | Friday |
 | ------------- |:-------------:|:---------:| --------:|-------:|
-|               |               | TBD <br>     |    |    |
+|               | <strong>Class:</strong> <br> 12:30 - 16:00 <br> <strong>Homework:</strong> <br> | <strong>Class:</strong> <br> 08:30 - 12:00 <br> <strong>Homework:</strong> <br> |    |    |
 
 <br>
 
@@ -46,7 +46,7 @@
 
 | Monday        | Tuesday       | Wednesday | Thursday | Friday |
 | ------------- |:-------------:|:---------:| --------:|-------:|
-|               |               | TBD <br>     |    |    |
+|               |               | <strong>Class:</strong> <br> 08:30 - 12:00 <br> <strong>Homework:</strong> <br> |    |    |
 
 <br>
 
@@ -54,7 +54,7 @@
 
 | Monday        | Tuesday       | Wednesday | Thursday | Friday |
 | ------------- |:-------------:|:---------:| --------:|-------:|
-|               |               | TBD <br>     |    |    |
+|               | <strong>Class:</strong> <br> 12:30 - 16:00 <br> <strong>Homework:</strong> <br> | <strong>Class:</strong> <br> 08:30 - 12:00 <br> <strong>Homework:</strong> <br> |    |    |
 
 <br>
 
@@ -70,7 +70,7 @@
 
 | Monday        | Tuesday       | Wednesday | Thursday | Friday |
 | ------------- |:-------------:|:---------:| --------:|-------:|
-|               |               | TBD <br>     |    |    |
+|               |               | <strong>Class:</strong> <br> 08:30 - 12:00 <br> <strong>Homework:</strong> <br> |    |    |
 
 <br>
 
@@ -78,7 +78,7 @@
 
 | Monday        | Tuesday       | Wednesday | Thursday | Friday |
 | ------------- |:-------------:|:---------:| --------:|-------:|
-|               |               | TBD <br>     |    |    |
+|               | <strong>Class:</strong> <br> 12:30 - 16:00 <br> <strong>Homework:</strong> <br> | <strong>Class:</strong> <br> 08:30 - 12:00 <br> <strong>Homework:</strong> <br> |    |    |
 
 <br>
 
@@ -87,7 +87,7 @@
 
 | Monday        | Tuesday       | Wednesday | Thursday | Friday |
 | ------------- |:-------------:|:---------:| --------:|-------:|
-|               |               | TBD <br>     |    |    |
+|               |               | <strong>Class:</strong> <br> 08:30 - 12:00 <br> <strong>Homework:</strong> <br> |    |    |
 
 <br>
 
@@ -95,7 +95,7 @@
 
 | Monday        | Tuesday       | Wednesday | Thursday | Friday |
 | ------------- |:-------------:|:---------:| --------:|-------:|
-|               |               | TBD <br>   |  |  |
+|               | <strong>Class:</strong> <br> 12:30 - 16:00 <br> <strong>Homework:</strong> <br> | <strong>Class:</strong> <br> 08:30 - 12:00 <br> <strong>Homework:</strong> <br> |  |  |
 
 <br>
 
@@ -103,7 +103,7 @@
 
 | Monday        | Tuesday       | Wednesday | Thursday | Friday |
 | ------------- |:-------------:|:---------:| --------:|-------:|
-|               |               | TBD <br>   |  |  |
+|               |               | <strong>Class:</strong> <br> 08:30 - 12:00 <br> <strong>Homework:</strong> <br> |  |  |
 
 <br>
 
@@ -111,7 +111,7 @@
 
 | Monday        | Tuesday       | Wednesday | Thursday | Friday |
 | ------------- |:-------------:|:---------:| --------:|-------:|
-|               |               | TBD <br>     |    |    |
+|               | <strong>Class:</strong> <br> 12:30 - 16:00 <br> <strong>Homework:</strong> <br> | <strong>Class:</strong> <br> 08:30 - 12:00 <br> <strong>Homework:</strong> <br> |    |    |
 
 <br>
 
@@ -119,7 +119,7 @@
 
 | Monday        | Tuesday       | Wednesday | Thursday | Friday |
 | ------------- |:-------------:|:---------:| --------:|-------:|
-|               |               | TBD <br>     |    |    |
+|               |               | <strong>Class:</strong> <br> 08:30 - 12:00 <br> <strong>Homework:</strong> <br> |    |    |
 
 <br>
 
@@ -128,4 +128,4 @@
 
 | Monday        | Tuesday       | Wednesday | Thursday | Friday |
 | ------------- |:-------------:|:---------:| --------:|-------:|
-|               |               | TBD <br>     |    |    |
+|               | <strong>Class:</strong> <br> 12:30 - 16:00 <br> <strong>Homework:</strong> <br> | <strong>Class:</strong> <br> 08:30 - 12:00 <br> <strong>Homework:</strong> <br> |    |    |
