@@ -10,10 +10,6 @@
 
 <br>
 
-***
-
-<br>
-
 #### Week 36 (26/8 - 29/8)
 
 | Monday        | Tuesday       | Wednesday | Thursday | Friday |
