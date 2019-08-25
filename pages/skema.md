@@ -1,4 +1,4 @@
-[<--](../index.md)
+[&#8592](../index.md)
 
 ## Skema
 
