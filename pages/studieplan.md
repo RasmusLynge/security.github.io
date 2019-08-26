@@ -1,4 +1,4 @@
-[&larr;](../index.md)
+[&larr; Back](../index.md)
 
 ## Studieplan
 
