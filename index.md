@@ -1,7 +1,6 @@
 ## Welcome to Security GitHub Pages
 
 Here will all information about our class be. All from our schedule to links and infomations about theory. 
-![Reasons](./Picture.png)
 
 ### Navigation
 
