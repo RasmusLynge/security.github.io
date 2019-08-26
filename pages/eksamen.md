@@ -1,3 +1,3 @@
-[&#8592](../index.md)
+[&larr; Back](../index.md)
 
 ## Eksamen
