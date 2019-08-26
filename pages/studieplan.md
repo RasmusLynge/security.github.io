@@ -2,7 +2,7 @@
 
 ## Studieplan
 
-### Self-study in Security - (This course is made by students for students together with LAM)
+### Self-study in Security
 <strong style="text-decoration: underline;">Timing:</strong> 4th semester <br>
 <strong style="text-decoration: underline;">Scope:</strong> 10 ETCS <br>
 
