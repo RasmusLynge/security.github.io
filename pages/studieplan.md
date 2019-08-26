@@ -3,8 +3,8 @@
 ## Studieplan
 
 ### Self-study in Security - (This course is made by students for students together with LAM)
-<strong><u>Timing:</u></strong> 4th semester <br>
-<strong><u>Scope:</u></strong> 10 ETCS <br>
+<strong style="text-decoration: underline;">Timing:</strong> 4th semester <br>
+<strong style="text-decoration: underline;">Scope:</strong> 10 ETCS <br>
 
 ### Content:
 This course is self-taught course in Security, students will after this course have an idea about what Ethical Hacking
@@ -34,13 +34,13 @@ VirtualBox and Kali Linux will be used to demonstrate how the hacks work and how
 All students should be coming into the course committed to using the information they learn within the legal framework.</small>
 
 ### Learning Objectives:
-<strong><u>Knowledge</u></strong><br>
+<strong style="text-decoration: underline;">Knowledge</strong><br>
 The graduate will possess knowledge of:
 - How to protect themselves against Hackers.
 - Know how hackers actually hack, both the theory, and the practical.
 - Know why social engineering is so dangerous. 
 
-<strong><u>Skills</u></strong><br> 
+<strong style="text-decoration: underline;">Skills</strong><br> 
 The graduate will be able to:
 - Build their own hacking lab, so that they can work through both the theory and the implementation of real hacks with their
 own live experiments in their lab.
@@ -52,10 +52,10 @@ own live experiments in their lab.
 - Perform penetration test on webpages, systems and WIFI networks.
 
 ### Exam
-<strong><u>Form:</u></strong> 30 minutes oral examination.<br>
-<strong><u>Assessment:</u></strong> The grade is based upon an overall assessment including the complexity/depth/width of the project and
+<strong style="text-decoration: underline;">Form:</strong> 30 minutes oral examination.<br>
+<strong style="text-decoration: underline;">Assessment:</strong> The grade is based upon an overall assessment including the complexity/depth/width of the project and
 the student’s display of curriculum knowledge at the exam. One grade is given according to the Danish 7-point scale.<br>
-<strong><u>Admission requisite:</u></strong> A student must hand in a written project related to the topic.<br>
-<strong><u>Examination basis:</u></strong> The student will prepare a (app. ten minutes) presentation of the solution of one of the
+<strong style="text-decoration: underline;">Admission requisite:</strong> A student must hand in a written project related to the topic.<br>
+<strong style="text-decoration: underline;">Examination basis:</strong> The student will prepare a (app. ten minutes) presentation of the solution of one of the
 topics they worked with. Further discussions will be based on the presentation, and a drawn question related to the curriculum.<br>
-<strong><u>Consequences of not passing:</u></strong> Reexam (3rd time failed = feed to the dogs)
+<strong style="text-decoration: underline;">Consequences of not passing:</strong> Reexam (3rd time failed = feed to the dogs)
