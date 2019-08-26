@@ -1,13 +1,8 @@
 [&larr; Back](../index.md)
 
 ## Bilag
-
-
-TODO: make pretty
-
-Material list for course: 
  
-### Video tutorial (48 hours pure video content) 
+### Video tutorials
 
 [Ethical Hacking Course: Protect Yourself From Being Hacked](https://www.udemy.com/course/ethical-hacking-course-protect-yourself-prevent-hacks/) - 
 Created by Tim Buchalka's Learn Programming Academy, Atil Samancioglu - Last updated 7/2019 
