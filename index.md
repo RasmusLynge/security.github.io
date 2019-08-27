@@ -8,7 +8,7 @@ Link | Description
 ------------ | -------------
 [Studieplan](./pages/studieplan.md) | Den overordnet beskrivelse af valgfaget
 [Skema](./pages/skema.md) | Skemaet for valgfaget
-[Eksamen](./pages/eksamen.md) | Information angående eksamen
+[Exam](./pages/exam.md) | Information about exam
 [Bilag](./pages/bilag.md) | Links, dokumenter og andre bilag vil blive lagt ind her
  | 
 [Uge 1: Subject](./pages/week_01) | Ugeplan for uge 35, med tilhørende materialer
