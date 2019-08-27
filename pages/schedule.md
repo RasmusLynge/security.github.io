@@ -1,6 +1,6 @@
 [&larr; Back](../index.md)
 
-## Skema
+## Schedule
 
 ### Week 35 (19/8 - 23/8)
 

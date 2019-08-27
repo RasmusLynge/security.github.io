@@ -1,6 +1,6 @@
 [&larr; Back](../index.md)
 
-## Studieplan
+## Curriculum
 
 ### Self-study in Security
 <strong style="text-decoration: underline;">Timing:</strong> 4th semester <br>

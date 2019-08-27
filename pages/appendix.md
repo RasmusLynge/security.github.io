@@ -1,6 +1,6 @@
 [&larr; Back](../index.md)
 
-## Bilag
+## Appendix
  
 ### Video tutorials
 
