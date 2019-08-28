@@ -37,7 +37,6 @@ Navn | Email | Github
 ------------ | ------------- | -------------
 Kim P. Pedersen | cph-kp222@cphbusiness.dk | [Link](https://github.com/KimHotDK)
 Esben Dalgaard | cph-ed66@cphbusiness.dk | [Link](https://github.com/Edunno)
-Casper Marx | cph-cm268@cphbusiness.dk | [Link](https://github.com/Marx02)
 Dan Tomicic | cph-dt63@cphbusiness.dk | [Link](https://github.com/godlikecpu)
 Michael D. Pedersen | cph-mp447@cpbusiness.dk | [Link](https://github.com/mich561d)
 Jesper Christensen | cph-jc173@cphbusiness.dk | [Link](https://github.com/jesper3005)
