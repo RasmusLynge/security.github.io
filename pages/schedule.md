@@ -14,7 +14,7 @@
 
 | Monday        | Tuesday       | Wednesday | Thursday | Friday |
 | ------------- |:-------------:|:---------:| --------:|-------:|
-| | | <strong>Class:</strong> 08:30 - 12:00 | | |
+| | | <strong>Class:</strong> 08:30 - 12:00 <strong>Room:</strong> 3.60 | | |
 
 <br>
 
