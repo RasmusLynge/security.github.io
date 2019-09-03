@@ -22,7 +22,7 @@
 
 | Monday        | Tuesday       | Wednesday | Thursday | Friday |
 | ------------- |:-------------:|:---------:| --------:|-------:|
-|               | <strong>Class:</strong> 12:30 - 16:00 <br> <strong>Homework:</strong> <br> | <strong>Class:</strong> 08:30 - 12:00 <br> <strong>Homework:</strong> <br> |    |    |
+|               |  | <strong>Class:</strong> 08:30 - 12:00 <br> <strong>Homework:</strong> <br> |    |    |
 
 <br>
 
@@ -30,7 +30,7 @@
 
 | Monday        | Tuesday       | Wednesday | Thursday | Friday |
 | ------------- |:-------------:|:---------:| --------:|-------:|
-|               |               | <strong>Class:</strong> 08:30 - 12:00 <br> <strong>Homework:</strong> <br> |    |    |
+|               | <strong>Class:</strong> 12:30 - 16:00 <br> <strong>Homework:</strong> <br> | <strong>Class:</strong> 08:30 - 12:00 <br> <strong>Homework:</strong> <br> |    |    |
 
 <br>
 
@@ -38,7 +38,7 @@
 
 | Monday        | Tuesday       | Wednesday | Thursday | Friday |
 | ------------- |:-------------:|:---------:| --------:|-------:|
-|               | <strong>Class:</strong> 12:30 - 16:00 <br> <strong>Homework:</strong> <br> | <strong>Class:</strong> 08:30 - 12:00 <br> <strong>Homework:</strong> <br> |    |    |
+|               | | <strong>Class:</strong> 08:30 - 12:00 <br> <strong>Homework:</strong> <br> |    |    |
 
 <br>
 
@@ -46,7 +46,7 @@
 
 | Monday        | Tuesday       | Wednesday | Thursday | Friday |
 | ------------- |:-------------:|:---------:| --------:|-------:|
-|               |               | <strong>Class:</strong> 08:30 - 12:00 <br> <strong>Homework:</strong> <br> |    |    |
+|               | <strong>Class:</strong> 12:30 - 16:00 <br> <strong>Homework:</strong> <br> | <strong>Class:</strong> 08:30 - 12:00 <br> <strong>Homework:</strong> <br> |    |    |
 
 <br>
 
@@ -54,7 +54,7 @@
 
 | Monday        | Tuesday       | Wednesday | Thursday | Friday |
 | ------------- |:-------------:|:---------:| --------:|-------:|
-|               | <strong>Class:</strong> 12:30 - 16:00 <br> <strong>Homework:</strong> <br> | <strong>Class:</strong> 08:30 - 12:00 <br> <strong>Homework:</strong> <br> |    |    |
+|               | | <strong>Class:</strong> 08:30 - 12:00 <br> <strong>Homework:</strong> <br> |    |    |
 
 <br>
 
