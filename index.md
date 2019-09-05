@@ -11,24 +11,24 @@ Link | Description
 [Exam](./pages/exam.md) | Information about exam.
 [Appendix](./pages/appendix.md) | Links, documents and other sources.
  | 
-[Week 1: Subject](./pages/week_01) | Weekplan for week 35, with sources.
-[Week 2: Subject](./pages/week_02) | Weekplan for week 36, with sources
-[Week 3 Part 1: Subject](./pages/week_03) | Weekplan for week 37, with sources
-[Week 3 Pat 2: Subject](./pages/week_03-a10-contuined) | Weekplan for week 37, with sources
-[Week 4 Part 1: Subject](./pages/week_04-A1-injection) | Weekplan for week 38, with sources
-[Week 4 Part 2: Subject](./pages/week_04-A3-GDPR) | Weekplan for week 38, with sources
-[Week 5: Subject](./pages/week_05-PenetrationTesting) | Weekplan for week 39, with sources
-[Week 6: Subject](./pages/week_06-Networks-and-Security) | Weekplan for week 40, with sources
-[Week 7: Subject](./pages/week_07-A6-A9) | Weekplan for week 41, with sources
-[Week 8: Subject](./pages/week_08-SSH-SSL-Certificates-) | Weekplan for week 43, with sources
-[Week 9: Subject](./pages/week_09) | Weekplan for week 44, with sources
-[Week 9 Examples: Subject](./pages/week_09) | Weekplan for week 44, with sources
-[Week 10: Subject](./pages/week_10-PW-DDOS-se) | Weekplan for week 45, with sources
-[Week 11: Subject](./pages/week_11) | Weekplan for week 46, with sources
-[Week 12: Subject](./pages/week_12) | Weekplan for week 47, with sources
-[Week 13: Subject](./pages/week_13) | Weekplan for week 48, with sources
-[Week 14: Subject](./pages/week_14) | Weekplan for week 49, with sources
-[Week 15: Subject](./pages/week_15) | Weekplan for week 50, with sources
+[Week 1](./pages/week_01) | Weekplan for week 35, with sources.
+[Week 2](./pages/week_02) | Weekplan for week 36, with sources
+[Week 3 Part 1](./pages/week_03) | Weekplan for week 37, with sources
+[Week 3 Pat 2](./pages/week_03-a10-contuined) | Weekplan for week 37, with sources
+[Week 4 Part 1](./pages/week_04-A1-injection) | Weekplan for week 38, with sources
+[Week 4 Part 2](./pages/week_04-A3-GDPR) | Weekplan for week 38, with sources
+[Week 5](./pages/week_05-PenetrationTesting) | Weekplan for week 39, with sources
+[Week 6](./pages/week_06-Networks-and-Security) | Weekplan for week 40, with sources
+[Week 7](./pages/week_07-A6-A9) | Weekplan for week 41, with sources
+[Week 8](./pages/week_08-SSH-SSL-Certificates-) | Weekplan for week 43, with sources
+[Week 9](./pages/week_09) | Weekplan for week 44, with sources
+[Week 9 Examples](./pages/week_09) | Weekplan for week 44, with sources
+[Week 10](./pages/week_10-PW-DDOS-se) | Weekplan for week 45, with sources
+[Week 11](./pages/week_11) | Weekplan for week 46, with sources
+[Week 12](./pages/week_12) | Weekplan for week 47, with sources
+[Week 13](./pages/week_13) | Weekplan for week 48, with sources
+[Week 14](./pages/week_14) | Weekplan for week 49, with sources
+[Week 15](./pages/week_15) | Weekplan for week 50, with sources
 
 ### Support or Contact
 
