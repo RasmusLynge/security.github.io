@@ -45,4 +45,4 @@ Michael D. Pedersen | cph-mp447@cpbusiness.dk | [Link](https://github.com/mich56
 Jesper Christensen | cph-jc173@cphbusiness.dk | [Link](https://github.com/jesper3005)
 Rasmus L. Jacobsen | cph-rj173@cphbusiness.dk | [Link](https://github.com/RasmusLynge)
 Mathias Kristensen | cph-mk523@cphbusiness.dk | [Link](https://github.com/mathiasbk1)
-Magnus Klitmose | cph-mk525@cphbusiness.dk | [Link](https://github.com/Magmose)
+

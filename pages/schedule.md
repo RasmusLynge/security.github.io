@@ -2,6 +2,10 @@
 
 ## Schedule
 
+### Googlesheet studyplan
+
+[Studyplan on google](https://docs.google.com/spreadsheets/d/1ACcKZH-W14AtUHChATFiYagEbX0myGDpYTOg-1p35lM/edit?usp=sharing)
+
 ### Week 34 (19/8 - 23/8)
 
 | Monday | Tuesday |               Wednesday               | Thursday | Friday |
