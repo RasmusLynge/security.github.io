@@ -55,3 +55,5 @@ See the [possible exam questions](https://docs.google.com/document/d/1-Hpf98pKwW
 [A7, Cross Site Scripting](https://docs.google.com/document/d/1EHVnI0sh9UCHdUpszFTtG_oxtYlOpGImYUimI5CotYY/edit?usp=sharing)
 
 
+# Implementering af OWASP's HTML- Encoder og sanitizer han ses her  
+https://github.com/RasmusLynge/XSS_Encoder-Sanitizer/blob/master/README.md 
